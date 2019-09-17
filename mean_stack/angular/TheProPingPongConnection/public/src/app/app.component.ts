@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { HttpService } from './http.service';
 import { ActivatedRoute, Params, Router } from '@angular/router';
-import { JwtModule } from '@auth0/angular-jwt';
+
 
 
 @Component({
